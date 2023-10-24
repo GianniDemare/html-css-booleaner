@@ -1,0 +1,68 @@
+/* SELEZIONE TAG */
+main{
+    width: 70%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: deepskyblue;
+    height: 150px;
+    background-image: url(file:///C:/Users/giann/OneDrive/Desktop/Esercizio%20GIT/html-css-booleaner/img/pattern.png);
+}
+
+span{
+    background-color: yellow;
+}
+
+
+table{
+    width: 80%;
+    border: 1px solid;
+}
+    
+th{
+    background-color: #00c3ff;
+}
+
+tr{
+    background-color: #b5adad;
+}
+
+h5{
+    text-align: center;
+    position: relative;
+    top: 25%;
+    
+}
+
+
+
+
+/* SELEZIONE CLASSI */
+.background-logo{
+    width: 200px;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+
+footer{
+    background-color: darkslateblue;
+    height: 100%;
+    border: 5px solid darkslateblue;
+    position: relative;
+    top: 10px;
+
+}
+
+.text{
+    position: relative;
+    bottom: 20px;
+}
+
+
+
+
+
+
+/* SELEZIONE ID */ 
